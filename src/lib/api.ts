@@ -1,5 +1,4 @@
 import { Builder } from 'builder-pattern';
-import Category from 'domain';
 
 type Method = 'get' | 'post' | 'put' | 'delete';
 
